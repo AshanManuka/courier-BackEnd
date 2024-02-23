@@ -1,5 +1,5 @@
 package com.designCenter.designCenter.enums;
 
 public enum ActiveStatus {
-    ACTIVE, PENDING, BLOCK, REJECTED, INACTIVE
+    HANDED_OVER, START_HUB, WAY, MAIN_HUB, FINAL_HUB, DELIVERY, DELIVERED
 }
